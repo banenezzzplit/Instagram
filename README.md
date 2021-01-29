@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-https://drive.google.com/file/d/1fdBgEsrSYhz2riRRKWvXCrvpZ3t8WJBg/view?usp=sharing
+https://drive.google.com/file/d/1fdBgEassrSYhza2riRRKWvXCrvpZ3t8WJBg/view?usp=sharing
 
 
 ## Notes
